@@ -45,3 +45,5 @@ ENV/
 dist/
 build/
 *.egg-info/
+
+social-media-content/
